@@ -3,38 +3,43 @@
 
 ### Project title
 
-Project title
+A HISTORY of YOU
 
 ### What and why?
 
-What software system would you like to build this semester, and why? Include a description of what problem the system would solve and why this is important.
+We usually use the phrase "History" when we refer to grand events that causes big impact, yet when looking at the atoms that builds up to the history we remember today, it is each individual's story, our stories as simple human being whether important or not, that builds up the world we live in.  
+
+In a world that focuses on scales of imformation, we often overlook our importance as a living. This project calls users to look back at the a micro scale "self" history that would fit each individual to create an artistical digital archive that allows everyone to have a voice in the deep concept of "the history" through their own storytelling. 
+
+A HISTORY of YOU is a software system that helps user keep a mindful history of their own life through combining the photos, voices memos, texts that the users archive  which the user give access to the software. It will then crate an interactive geo-tempo "montage" from the archivals.
+
+
 
 ### For whom?
 
-Who will this software be for? These people are your end-users or customers.
+This software system is for everyone who wants to artistically track of things happening in their life through an easy visualization based on time and space. 
 
-Do not make software for imaginary users who do not exist - you must have real people as your initial end-users. Tell us who they are. For example, is it for a particular type of business, mass consumer, a campus office, a professor, or friends or family, or ... people just like you.
+Ranging from elementry school students to elderlies, as long as the user uses their phone to actively archive experiences, this software system will be a great tool for them.
 
-Understanding who your end-users are, and ideally speaking with some along the way, will help you refine your designs to be suitable for your audience, and understand whether you have succeeded at the end or not.
+Yet in the initial developping stage, the trial end-users will be college students and young adults that focuses on "life-maxing" concept and helps them to visualize memory and personal history. 
+
 
 ### How?
 
-A description of what the system will do from an end-user's perspective. Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.
+
+Through the information the systems draw from the materials, it keeps track of the user's life through creating an interactive geo-tempo "montage" that maps a user's life history based on the locational and temporal information associated with the infos on their phone. The software will create a spatiotemporal (tempo-geo) archive through clustering algorithms that can handle spatial coordinates and time dimensions and visualize it. 
+
 
 ### Scope
 
-A brief justification that the proposal is neither too easy nor too ambitions for a group of approximately 4 - 6 programmers to undertake in one semester.
 
-## Submission
+The scope of this software includes 3 important aspects:
+A. Clustering algorithm development. This will be the initial stage
+B. User Design -> 
+1. The interface where user can input their information withought too much navigation troubles.
+2. artisitcal visuals that help map the montage into a map with cooridinates of time aspects which allows users to get a sense of "self hisstory.
 
-Complete the assignment as a Markdown document in the file named `README.md` in this repository. The document should be nicely formatted and outlined with a clear heading and sub-headings for each section.
 
-Use the `git` features of **Visual Studio Code** to commit your work and `push` them to the GitHub repository.
+### Further Development
 
-Share the link to your document using the messaging app specified by your instructor, both where you submit your own work and in the public `#project-ideas` channel. In both cases, include the title of your project for all to see in the message.
-
-## What happens next
-
-We will select a subset of the proposals that we think will be the most interesting and appropriate for this course. These will be published to the class. Your next assignment will be to rank your favorites. We will then make team assignments based on this information and the answers you have provided to the previous introductory questionnaire.
-
-If your proposal is selected, you are 99% guaranteed to be part of that team.
+A further stage in the development of the app would be to explore how the clustering algorithm could be used to create a visually pleasing and artistically interactive archival journal. This could allow the archive to reflect the distinct personality of each individual, rather than simply organizing their content into clusters. Given more time, this would be an interesting direction for the software engineers to explore and design.
