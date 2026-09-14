@@ -34,8 +34,12 @@ Through the information the systems draw from the materials, it keeps track of t
 
 
 The scope of this software includes 3 important aspects:
+
 A. Clustering algorithm development. This will be the initial stage
-B. User Design -> 
+
+
+B. User Design 
+
 1. The interface where user can input their information withought too much navigation troubles.
 2. artisitcal visuals that help map the montage into a map with cooridinates of time aspects which allows users to get a sense of "self hisstory.
 
